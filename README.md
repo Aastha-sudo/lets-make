@@ -1,2 +1,3 @@
 # lets-make
-this is my first my .
+this is my first github project.
+author-AAstha
